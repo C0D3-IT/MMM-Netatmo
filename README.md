@@ -6,7 +6,7 @@
 
 A module to integrale informations from a Netatmo weather station into the [MagicMirror](https://github.com/MichMich/MagicMirror).
 
-![MMM-Netatmo full display](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_full.png)
+![MMM-Netatmo full display](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_full.png)
 
 ## Usage
 
@@ -140,13 +140,13 @@ or in MMM-config
 Update 22-03-2020: Added Horizantal (row) View
 
 ## Some Screenprints
-![MMM-Netatmo full display](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_full.png)
-![MMM-Netatmo No DataHeader](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_noheader.png)
-![MMM-Netatmo No DataIcon](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_noicon.png)
-![MMM-Netatmo No DataIconHeader](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_noicon_noheader.png)
-![MMM-Netatmo No Status](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_nostatus.png)
-![MMM-Netatmo Rain and Wind in Outdoor](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_raininoutdoor.png)
-![MMM-Netatmo Wind in Knots](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_wind_in_knots.png)
-![MMM-Netatmo Horizontal](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_Horizontal.png)
-![MMM-Netatmo Horizontal No Overflow ](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_Horizontal2.png)
-![MMM-Netatmo Horizontal Overflow ](https://github.com/RaymondMolenaar/MMM-Netatmo/blob/master/MMM-Netatmo_HorizontalOverflow.png)
+![MMM-Netatmo full display](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_full.png)
+![MMM-Netatmo No DataHeader](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_noheader.png)
+![MMM-Netatmo No DataIcon](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_noicon.png)
+![MMM-Netatmo No DataIconHeader](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_noicon_noheader.png)
+![MMM-Netatmo No Status](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_nostatus.png)
+![MMM-Netatmo Rain and Wind in Outdoor](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_raininoutdoor.png)
+![MMM-Netatmo Wind in Knots](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_wind_in_knots.png)
+![MMM-Netatmo Horizontal](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_Horizontal.png)
+![MMM-Netatmo Horizontal No Overflow ](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_Horizontal2.png)
+![MMM-Netatmo Horizontal Overflow ](https://github.com/C0D3-IT/MMM-Netatmo/blob/master/previews/MMM-Netatmo_HorizontalOverflow.png)

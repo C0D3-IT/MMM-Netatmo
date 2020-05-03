@@ -1035,7 +1035,7 @@ Module.register("MMM-Netatmo", {
 	},
 	getStyles: function () {
 		// Log.log("Netatmo : getStyles");
-		return ["MMM-netatmo.css", "font-awesome.css", "weather-icons.css", "weather-icons-wind.css"];
+		return ["MMM-Netatmo.css", "font-awesome.css", "weather-icons.css", "weather-icons-wind.css"];
 	},
 
 	getTranslations: function () {
